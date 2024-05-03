@@ -1,0 +1,36 @@
+h1{
+    color: #95c70ce7;
+}
+
+#Principal{
+    color: rgba(51, 223, 45, 0.979);
+    font-size: 60px;
+}
+
+.amarelo-grande{
+    font-size: 60px;
+
+}
+
+.Figura{
+    width: 390px;
+    height: 300px;
+}
+
+#caixa-mae {
+    width: 10px;
+    height: 10px;
+    background-color: lemonchiffon;
+    
+}
+
+body{
+    background-color: rgb(237, 243, 232);
+
+}
+
+header{
+    height: 100px;
+    
+}
+
